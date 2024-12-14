@@ -1,1 +1,36 @@
-<div>LoginSignUp</div>
+@model Gambl.Models.UserInfo
+
+@{
+    ViewData["Title"] = "Signup";
+}
+
+<h2>Signup</h2>
+<form method="post" action="/Login/Signup">
+    <label>First Name:</label>
+    <input type="text" name="UserFN" value="@Model.UserFN" required />
+    <span asp-validation-for="UserFN" class="text-danger"></span>
+    <br />
+    
+    <label>Last Name:</label>
+    <input type="text" name="UserLN" value="@Model.UserLN" required />
+    <span asp-validation-for="UserLN" class="text-danger"></span>
+    <br />
+    
+    <label>Email:</label>
+    <input type="email" name="UserEmail" value="@Model.UserEmail" required />
+    <span asp-validation-for="UserEmail" class="text-danger"></span>
+    <br />
+    
+    <label>Phone:</label>
+    <input type="text" name="UserPhone" value="@Model.UserPhone" required />
+    <span asp-validation-for="UserPhone" class="text-danger"></span>
+    <br />
+    
+    <label>Password:</label>
+    <input type="password" name="Password" required />
+    <span asp-validation-for="Password" class="text-danger"></span>
+    <br />
+    
+    <button type="submit">Signup</button>
+</form>
+<a href="/Login/Admission">Already have an account? Login</a>

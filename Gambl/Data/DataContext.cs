@@ -9,6 +9,7 @@ namespace Gambl.Data
     {
         
     }
+        public DbSet<UserInfo> Users { get; set; }
         public DbSet<UserInfo> UserInfos=>Set<UserInfo>();
         public DbSet<CourseInfo> CourseInfos=>Set<CourseInfo>();
         public DbSet<InstructorInfo> InstructorInfos=>Set<InstructorInfo>();
