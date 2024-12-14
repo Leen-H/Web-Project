@@ -1,1 +1,21 @@
-<div>LoginAdmission</div>
+@{
+    ViewData["Title"] = "Admission";
+}
+
+<h2>Admission</h2>
+<form method="post" action="/Login/Admission">
+    <label>Email:</label>
+    <input type="email" name="email" required />
+    <br />
+    
+    <label>Password:</label>
+    <input type="password" name="password" required />
+    <br />
+    
+    <button type="submit">Login</button>
+</form>
+@if (ViewBag.Message != null)
+{
+    <p style="color: rgb(0, 102, 255);">@ViewBag.Message</p>
+}
+<a href="/Login/Signup">Don't have an account? Signup</a>

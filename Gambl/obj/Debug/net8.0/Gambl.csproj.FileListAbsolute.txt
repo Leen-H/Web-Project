@@ -189,3 +189,29 @@ C:\Users\mehmet kerem çay\Desktop\Gambl\Gambl\obj\Debug\net8.0\refint\Gambl.dll
 C:\Users\mehmet kerem çay\Desktop\Gambl\Gambl\obj\Debug\net8.0\Gambl.pdb
 C:\Users\mehmet kerem çay\Desktop\Gambl\Gambl\obj\Debug\net8.0\Gambl.genruntimeconfig.cache
 C:\Users\mehmet kerem çay\Desktop\Gambl\Gambl\obj\Debug\net8.0\ref\Gambl.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Gambl.exe
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Gambl.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\betul\web\Web-Project\Gambl\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.csproj.AssemblyReference.cache
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.AssemblyInfoInputs.cache
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.AssemblyInfo.cs
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.csproj.CoreCompileInputs.cache
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.RazorAssemblyInfo.cache
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.RazorAssemblyInfo.cs
+C:\Users\betul\web\Web-Project\Gambl\obj\Debug\net8.0\Gambl.sourcelink.json
